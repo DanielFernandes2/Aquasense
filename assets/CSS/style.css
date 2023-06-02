@@ -894,8 +894,6 @@ button {
   
   .remover-button:hover {
     transform: scale(1.1);
-    color: #eb9393;
-    
   }
 
   .name-off{
